@@ -1,0 +1,30 @@
+.todo-card-container{
+    margin: 0;
+    padding: 1rem;
+}
+
+
+
+  /* todocard.css */
+  .list {
+    height: 10%;
+    text-align: left;
+    margin: 5px;
+    padding: 1rem;
+    margin-left: 10px;
+    border: 3px solid #ebe7e7; /* Border color can be adjusted */
+    border-radius: 4px; /* Optional: Add border radius for rounded corners */
+  }
+  
+  .list h3 {
+    margin: 0px;
+    font-size: 1.2rem; /* Adjust font size for the title */
+  }
+  
+  .list  p {
+    margin: 0px;
+    font-size: 1rem; /* Adjust font size for the description */
+    color: #555; /* Optional: Change color for description text */
+  }
+  
+  
